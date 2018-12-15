@@ -11,6 +11,7 @@
 		C915A98921C4D0FC00EFC8BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C915A98821C4D0FC00EFC8BF /* ViewController.swift */; };
 		C915A98B21C4D0FD00EFC8BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C915A98A21C4D0FD00EFC8BF /* Assets.xcassets */; };
 		C915A98E21C4D0FD00EFC8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C915A98C21C4D0FD00EFC8BF /* Main.storyboard */; };
+		C915A99721C4D4B900EFC8BF /* CowsandBullsGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = C915A99621C4D4B900EFC8BF /* CowsandBullsGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C915A98D21C4D0FD00EFC8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C915A98F21C4D0FD00EFC8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C915A99021C4D0FD00EFC8BF /* Project2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Project2.entitlements; sourceTree = "<group>"; };
+		C915A99621C4D4B900EFC8BF /* CowsandBullsGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CowsandBullsGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C915A98821C4D0FC00EFC8BF /* ViewController.swift */,
 				C915A98A21C4D0FD00EFC8BF /* Assets.xcassets */,
 				C915A98C21C4D0FD00EFC8BF /* Main.storyboard */,
+				C915A99621C4D4B900EFC8BF /* CowsandBullsGame.swift */,
 				C915A98F21C4D0FD00EFC8BF /* Info.plist */,
 				C915A99021C4D0FD00EFC8BF /* Project2.entitlements */,
 			);
@@ -135,6 +138,7 @@
 			files = (
 				C915A98921C4D0FC00EFC8BF /* ViewController.swift in Sources */,
 				C915A98721C4D0FC00EFC8BF /* AppDelegate.swift in Sources */,
+				C915A99721C4D4B900EFC8BF /* CowsandBullsGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
